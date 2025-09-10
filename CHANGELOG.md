@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-09-10)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`82be305`](https://github.com/stdlib-js/stdlib/commit/82be305dfecc75ac71e18dbed841aa6f8022e7be) - **docs:** clean-up TSDoc examples _(by Philipp Burckhardt)_
 -   [`803f30a`](https://github.com/stdlib-js/stdlib/commit/803f30a518a22fb4c01e5d2b82b37afd9f0d567d) - **test:** update import paths _(by Athan Reines)_
 -   [`3dad15a`](https://github.com/stdlib-js/stdlib/commit/3dad15a335e8f20c1747ceacbefd6cecefce8c8d) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`e60e690`](https://github.com/stdlib-js/stdlib/commit/e60e6902d0e0d0294c60420b8aca1d37fbc46017) - **feat:** add `stats/array/mskmax` _(by Athan Reines)_
@@ -36,10 +37,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Philipp Burckhardt
 
 </section>
 
