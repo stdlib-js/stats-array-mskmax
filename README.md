@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import mskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-mskmax@esm/index.mjs';
+import mskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-mskmax@v0.1.0-esm/index.mjs';
 ```
 
 #### mskmax( x, mask )
@@ -97,7 +97,7 @@ The function has the following parameters:
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@esm/index.mjs';
-import mskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-mskmax@esm/index.mjs';
+import mskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-mskmax@v0.1.0-esm/index.mjs';
 
 var x = uniform( 10, -50.0, 50.0, {
     'dtype': 'float64'
